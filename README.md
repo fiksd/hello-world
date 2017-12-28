@@ -4,3 +4,6 @@ Commit #1
 
 
 +set mail
+
+
+REMOTE UPDATE 1 (test #2)
